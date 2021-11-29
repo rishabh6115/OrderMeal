@@ -4,7 +4,7 @@
 
 ### Steps for running the app in your local machine
 
-1. Install Node.js if you donot have it installed.
+1. Install `node.js` if you donot have it installed.
 2. Clone this repo.
 3. Run `npm install` to get the missing dependecies.
 4. Run `npm start` to start the app in development mode.

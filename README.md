@@ -11,4 +11,5 @@
 5. You will be redirected to `http://localhost:3000/` in your default browser.
 
 <hr>
+
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
